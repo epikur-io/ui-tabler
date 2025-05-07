@@ -1,5 +1,20 @@
 # @tabler/docs
 
+## 1.2.1
+
+### Patch Changes
+
+- 8f70185: fix: improve Introduction, Base, Layout and Plugins sections in documentation
+- e546706: Fix input mask example in docs
+- 8470c9b: Fix broken links to other docs section and tabler.io website; improve some labels.
+- 278967b: Fix switch icon examples with filled icons in documentation
+- 7b72653: Fix ribbon component in the documentation
+- c42b104: Fix incorrect label text on form elements docs page
+- 895f943: Use tabs-package include to show webfont install steps
+- 665472c: Demonstrate sticky header table more clearly in docs
+- Updated dependencies [e675389]
+  - @tabler/core@1.2.1
+
 ## 1.0.1
 
 ### Patch Changes
